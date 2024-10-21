@@ -6,7 +6,8 @@ body {
   place-items: center;
   color: white;
   font-family: sans-serif;
-  background: linear-gradient(to bottom right, #273746, #aab7b8);
+  /*background: linear-gradient(to bottom right, #273746, #aab7b8);*/
+  background-image: url(https://www.bhmpics.com/downloads/binding-of-isaac-wallpaper/46.the_binding_of_isaac_wallpaper_negative__by_jeffyhyena_da8zi9a-fullview.jpg);
   
 }
 
