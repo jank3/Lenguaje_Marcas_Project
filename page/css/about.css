@@ -53,7 +53,8 @@ figure {
 /* Clases */
 .titulo {
   color: white;
-  font-size: 100px;
+  width: 100%;
+  font-size: 95px;
   background-attachment: fixed;
   border-radius: 8px;
 }
